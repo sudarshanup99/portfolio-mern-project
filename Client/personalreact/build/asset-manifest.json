@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.045fb270.css",
+    "main.js": "/static/js/main.c6f859ee.js",
+    "static/js/453.8d1c5ab3.chunk.js": "/static/js/453.8d1c5ab3.chunk.js",
+    "static/media/SudarshanCV-4.pdf": "/static/media/SudarshanCV-4.d53b5359359124ab4d61.pdf",
+    "index.html": "/index.html",
+    "main.045fb270.css.map": "/static/css/main.045fb270.css.map",
+    "main.c6f859ee.js.map": "/static/js/main.c6f859ee.js.map",
+    "453.8d1c5ab3.chunk.js.map": "/static/js/453.8d1c5ab3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.045fb270.css",
+    "static/js/main.c6f859ee.js"
+  ]
+}
