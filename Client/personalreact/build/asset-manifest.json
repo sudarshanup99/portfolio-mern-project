@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.0799678d.css",
-    "main.js": "/static/js/main.b98bf59e.js",
+    "main.js": "/static/js/main.3cc51af0.js",
     "static/js/453.8d1c5ab3.chunk.js": "/static/js/453.8d1c5ab3.chunk.js",
-    "static/media/SudarshanCV-4.pdf": "/static/media/SudarshanCV-4.d53b5359359124ab4d61.pdf",
+    "static/media/sudarshan-timalsina-cv (2).pdf": "/static/media/sudarshan-timalsina-cv (2).335b32e6f2341eacdb8d.pdf",
     "index.html": "/index.html",
     "main.0799678d.css.map": "/static/css/main.0799678d.css.map",
-    "main.b98bf59e.js.map": "/static/js/main.b98bf59e.js.map",
+    "main.3cc51af0.js.map": "/static/js/main.3cc51af0.js.map",
     "453.8d1c5ab3.chunk.js.map": "/static/js/453.8d1c5ab3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0799678d.css",
-    "static/js/main.b98bf59e.js"
+    "static/js/main.3cc51af0.js"
   ]
 }
